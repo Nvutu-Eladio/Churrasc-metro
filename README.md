@@ -1,2 +1,2 @@
-# Churrasc-metro
+# Churrascômetro
 Programa desenvolvido com js, onde mostra a quantidade de bebida e comida necessária para um churrasco...
